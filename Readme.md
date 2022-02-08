@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Иван Шолохов](https://up.htmlacademy.ru/htmlcss/33/user/1893379).
-* Наставник: [Мария Наг](https://htmlacademy.ru/profile/id47061).
+* Студент: [Владислав Пивоваров](https://github.com/vladpivovarov/1893379-device-33).
+* Наставник: [Владислав Пивоваров](https://github.com/vladpivovarov/1893379-device-33).
 
 ---
 
